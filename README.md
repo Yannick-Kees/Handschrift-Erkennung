@@ -10,4 +10,4 @@ Damit alle unsere bis dahin angestellten Rechnungen funktionieren und die Signat
 
 Einer der ersten Erfolge der Signatur in der "echten Welt" gelang dem Mathematiker Benjamin Graham. Dieser nahm im Jahr 2013 erfolgreich an der ICDAR teil, indem er ein Programm schrieb, das gezeichnete chinesische Schriftzeichen erkennen soll. Dazu verwendete unter anderem die Signatur. Wie man so etwas genau umsetzt, behandeln wir hier exemplarisch für das Erkennen der Zahlen von 0 bis 9.
 
-<img src="GridSkizze.png" height="402pt">
+<img src="GridSkizze.jpg" height="402pt">
